@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm chi98766
 
-<!--
-**chi98766/chi98766** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Just a developer figuring things out one commit at a time.
 
-Here are some ideas to get you started:
+### About me
+Currently exploring web development and backend stuff.  
+Learning by building small projects and reading docs when I get stuck.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech I use
+- Python
+- JavaScript / TypeScript
+- Git & GitHub
+- Linux
+
+### Projects
+Nothing big to show yet — this profile is still pretty empty.  
+Will update when I have something worth sharing.
+
+---
+
+Feel free to check back later.
